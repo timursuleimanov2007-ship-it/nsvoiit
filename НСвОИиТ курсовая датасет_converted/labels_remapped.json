@@ -1,0 +1,5378 @@
+[
+  {
+    "file": "iOS 11\\App Store.png",
+    "corporation": "Apple",
+    "os": "iOS 11",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "iOS 11\\Books.png",
+    "corporation": "Apple",
+    "os": "iOS 11",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "iOS 11\\Calculator.png",
+    "corporation": "Apple",
+    "os": "iOS 11",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "iOS 11\\Calendar.png",
+    "corporation": "Apple",
+    "os": "iOS 11",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "iOS 11\\Camera.png",
+    "corporation": "Apple",
+    "os": "iOS 11",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "iOS 11\\Classroom.png",
+    "corporation": "Apple",
+    "os": "iOS 11",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "iOS 11\\Clock.png",
+    "corporation": "Apple",
+    "os": "iOS 11",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "iOS 11\\Compass.png",
+    "corporation": "Apple",
+    "os": "iOS 11",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "iOS 11\\Contacts.png",
+    "corporation": "Apple",
+    "os": "iOS 11",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "iOS 11\\FaceTime.png",
+    "corporation": "Apple",
+    "os": "iOS 11",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "iOS 11\\Files.png",
+    "corporation": "Apple",
+    "os": "iOS 11",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "iOS 11\\Find My Friends.png",
+    "corporation": "Apple",
+    "os": "iOS 11",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "iOS 11\\Find My iPhone.png",
+    "corporation": "Apple",
+    "os": "iOS 11",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "iOS 11\\Fitness.png",
+    "corporation": "Apple",
+    "os": "iOS 11",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "iOS 11\\Health.png",
+    "corporation": "Apple",
+    "os": "iOS 11",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "iOS 11\\Home.png",
+    "corporation": "Apple",
+    "os": "iOS 11",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "iOS 11\\iTunes Store.png",
+    "corporation": "Apple",
+    "os": "iOS 11",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "iOS 11\\Keynote.png",
+    "corporation": "Apple",
+    "os": "iOS 11",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "iOS 11\\Mail.png",
+    "corporation": "Apple",
+    "os": "iOS 11",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "iOS 11\\Maps.png",
+    "corporation": "Apple",
+    "os": "iOS 11",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "iOS 11\\Messages.png",
+    "corporation": "Apple",
+    "os": "iOS 11",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "iOS 11\\Music.png",
+    "corporation": "Apple",
+    "os": "iOS 11",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "iOS 11\\News.png",
+    "corporation": "Apple",
+    "os": "iOS 11",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "iOS 11\\Notes.png",
+    "corporation": "Apple",
+    "os": "iOS 11",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "iOS 11\\Numbers.png",
+    "corporation": "Apple",
+    "os": "iOS 11",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "iOS 11\\Pages.png",
+    "corporation": "Apple",
+    "os": "iOS 11",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "iOS 11\\Phone.png",
+    "corporation": "Apple",
+    "os": "iOS 11",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "iOS 11\\Photos.png",
+    "corporation": "Apple",
+    "os": "iOS 11",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "iOS 11\\Podcasts.png",
+    "corporation": "Apple",
+    "os": "iOS 11",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "iOS 11\\Reminders.png",
+    "corporation": "Apple",
+    "os": "iOS 11",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "iOS 11\\Safari.png",
+    "corporation": "Apple",
+    "os": "iOS 11",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "iOS 11\\Settings.png",
+    "corporation": "Apple",
+    "os": "iOS 11",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "iOS 11\\Stocks.png",
+    "corporation": "Apple",
+    "os": "iOS 11",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "iOS 11\\Tips.png",
+    "corporation": "Apple",
+    "os": "iOS 11",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "iOS 11\\TV.png",
+    "corporation": "Apple",
+    "os": "iOS 11",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "iOS 11\\Voice Memos.png",
+    "corporation": "Apple",
+    "os": "iOS 11",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "iOS 11\\Wallet.png",
+    "corporation": "Apple",
+    "os": "iOS 11",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "iOS 11\\Watch.png",
+    "corporation": "Apple",
+    "os": "iOS 11",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "iOS 11\\Weather.png",
+    "corporation": "Apple",
+    "os": "iOS 11",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "iOS 11\\WWDC.png",
+    "corporation": "Apple",
+    "os": "iOS 11",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "iOS 18\\Apple Store.png",
+    "corporation": "Apple",
+    "os": "iOS 18",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "iOS 18\\Books.png",
+    "corporation": "Apple",
+    "os": "iOS 18",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "iOS 18\\Calculator.png",
+    "corporation": "Apple",
+    "os": "iOS 18",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "iOS 18\\Calendar.png",
+    "corporation": "Apple",
+    "os": "iOS 18",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "iOS 18\\Camera.png",
+    "corporation": "Apple",
+    "os": "iOS 18",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "iOS 18\\Clock.png",
+    "corporation": "Apple",
+    "os": "iOS 18",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "iOS 18\\Contacts.png",
+    "corporation": "Apple",
+    "os": "iOS 18",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "iOS 18\\Developer.png",
+    "corporation": "Apple",
+    "os": "iOS 18",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "iOS 18\\FaceTime.png",
+    "corporation": "Apple",
+    "os": "iOS 18",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "iOS 18\\Find My.png",
+    "corporation": "Apple",
+    "os": "iOS 18",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "iOS 18\\Fitness.png",
+    "corporation": "Apple",
+    "os": "iOS 18",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "iOS 18\\Health.png",
+    "corporation": "Apple",
+    "os": "iOS 18",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "iOS 18\\Keynote.png",
+    "corporation": "Apple",
+    "os": "iOS 18",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "iOS 18\\Mail.png",
+    "corporation": "Apple",
+    "os": "iOS 18",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "iOS 18\\Maps.png",
+    "corporation": "Apple",
+    "os": "iOS 18",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "iOS 18\\Messages.png",
+    "corporation": "Apple",
+    "os": "iOS 18",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "iOS 18\\Music.png",
+    "corporation": "Apple",
+    "os": "iOS 18",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "iOS 18\\News.png",
+    "corporation": "Apple",
+    "os": "iOS 18",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "iOS 18\\Notes.png",
+    "corporation": "Apple",
+    "os": "iOS 18",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "iOS 18\\Numbers.png",
+    "corporation": "Apple",
+    "os": "iOS 18",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "iOS 18\\Pages.png",
+    "corporation": "Apple",
+    "os": "iOS 18",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "iOS 18\\Passwords.png",
+    "corporation": "Apple",
+    "os": "iOS 18",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "iOS 18\\Phone.png",
+    "corporation": "Apple",
+    "os": "iOS 18",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "iOS 18\\Photo Booth.png",
+    "corporation": "Apple",
+    "os": "iOS 18",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "iOS 18\\Photos.png",
+    "corporation": "Apple",
+    "os": "iOS 18",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "iOS 18\\Reminders.png",
+    "corporation": "Apple",
+    "os": "iOS 18",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "iOS 18\\Safari.png",
+    "corporation": "Apple",
+    "os": "iOS 18",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "iOS 18\\Settings.png",
+    "corporation": "Apple",
+    "os": "iOS 18",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "iOS 18\\Stocks.png",
+    "corporation": "Apple",
+    "os": "iOS 18",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "iOS 18\\Tips.png",
+    "corporation": "Apple",
+    "os": "iOS 18",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "iOS 18\\Voice Memos.png",
+    "corporation": "Apple",
+    "os": "iOS 18",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "iOS 18\\Watch.png",
+    "corporation": "Apple",
+    "os": "iOS 18",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "iOS 18\\Weather.png",
+    "corporation": "Apple",
+    "os": "iOS 18",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "iOS 26\\App Store.png",
+    "corporation": "Apple",
+    "os": "iOS 26",
+    "direction": "Glassmorphism",
+    "style": "Apple Liquid Glass"
+  },
+  {
+    "file": "iOS 26\\Apple Store.png",
+    "corporation": "Apple",
+    "os": "iOS 26",
+    "direction": "Glassmorphism",
+    "style": "Apple Liquid Glass"
+  },
+  {
+    "file": "iOS 26\\Books.png",
+    "corporation": "Apple",
+    "os": "iOS 26",
+    "direction": "Glassmorphism",
+    "style": "Apple Liquid Glass"
+  },
+  {
+    "file": "iOS 26\\Calculator.png",
+    "corporation": "Apple",
+    "os": "iOS 26",
+    "direction": "Glassmorphism",
+    "style": "Apple Liquid Glass"
+  },
+  {
+    "file": "iOS 26\\Calendar.png",
+    "corporation": "Apple",
+    "os": "iOS 26",
+    "direction": "Glassmorphism",
+    "style": "Apple Liquid Glass"
+  },
+  {
+    "file": "iOS 26\\Camera.png",
+    "corporation": "Apple",
+    "os": "iOS 26",
+    "direction": "Glassmorphism",
+    "style": "Apple Liquid Glass"
+  },
+  {
+    "file": "iOS 26\\Clock.png",
+    "corporation": "Apple",
+    "os": "iOS 26",
+    "direction": "Glassmorphism",
+    "style": "Apple Liquid Glass"
+  },
+  {
+    "file": "iOS 26\\Compass.png",
+    "corporation": "Apple",
+    "os": "iOS 26",
+    "direction": "Glassmorphism",
+    "style": "Apple Liquid Glass"
+  },
+  {
+    "file": "iOS 26\\Contacts.png",
+    "corporation": "Apple",
+    "os": "iOS 26",
+    "direction": "Glassmorphism",
+    "style": "Apple Liquid Glass"
+  },
+  {
+    "file": "iOS 26\\FaceTime.png",
+    "corporation": "Apple",
+    "os": "iOS 26",
+    "direction": "Glassmorphism",
+    "style": "Apple Liquid Glass"
+  },
+  {
+    "file": "iOS 26\\Files.png",
+    "corporation": "Apple",
+    "os": "iOS 26",
+    "direction": "Glassmorphism",
+    "style": "Apple Liquid Glass"
+  },
+  {
+    "file": "iOS 26\\Games.png",
+    "corporation": "Apple",
+    "os": "iOS 26",
+    "direction": "Glassmorphism",
+    "style": "Apple Liquid Glass"
+  },
+  {
+    "file": "iOS 26\\Health.png",
+    "corporation": "Apple",
+    "os": "iOS 26",
+    "direction": "Glassmorphism",
+    "style": "Apple Liquid Glass"
+  },
+  {
+    "file": "iOS 26\\iTunes Store.png",
+    "corporation": "Apple",
+    "os": "iOS 26",
+    "direction": "Glassmorphism",
+    "style": "Apple Liquid Glass"
+  },
+  {
+    "file": "iOS 26\\Mail.png",
+    "corporation": "Apple",
+    "os": "iOS 26",
+    "direction": "Glassmorphism",
+    "style": "Apple Liquid Glass"
+  },
+  {
+    "file": "iOS 26\\Maps.png",
+    "corporation": "Apple",
+    "os": "iOS 26",
+    "direction": "Glassmorphism",
+    "style": "Apple Liquid Glass"
+  },
+  {
+    "file": "iOS 26\\Messages.png",
+    "corporation": "Apple",
+    "os": "iOS 26",
+    "direction": "Glassmorphism",
+    "style": "Apple Liquid Glass"
+  },
+  {
+    "file": "iOS 26\\Music.png",
+    "corporation": "Apple",
+    "os": "iOS 26",
+    "direction": "Glassmorphism",
+    "style": "Apple Liquid Glass"
+  },
+  {
+    "file": "iOS 26\\News.png",
+    "corporation": "Apple",
+    "os": "iOS 26",
+    "direction": "Glassmorphism",
+    "style": "Apple Liquid Glass"
+  },
+  {
+    "file": "iOS 26\\Notes.png",
+    "corporation": "Apple",
+    "os": "iOS 26",
+    "direction": "Glassmorphism",
+    "style": "Apple Liquid Glass"
+  },
+  {
+    "file": "iOS 26\\Phone.png",
+    "corporation": "Apple",
+    "os": "iOS 26",
+    "direction": "Glassmorphism",
+    "style": "Apple Liquid Glass"
+  },
+  {
+    "file": "iOS 26\\Photo Booth.png",
+    "corporation": "Apple",
+    "os": "iOS 26",
+    "direction": "Glassmorphism",
+    "style": "Apple Liquid Glass"
+  },
+  {
+    "file": "iOS 26\\Photos.png",
+    "corporation": "Apple",
+    "os": "iOS 26",
+    "direction": "Glassmorphism",
+    "style": "Apple Liquid Glass"
+  },
+  {
+    "file": "iOS 26\\Preview.png",
+    "corporation": "Apple",
+    "os": "iOS 26",
+    "direction": "Glassmorphism",
+    "style": "Apple Liquid Glass"
+  },
+  {
+    "file": "iOS 26\\Reminders.png",
+    "corporation": "Apple",
+    "os": "iOS 26",
+    "direction": "Glassmorphism",
+    "style": "Apple Liquid Glass"
+  },
+  {
+    "file": "iOS 26\\Safari.png",
+    "corporation": "Apple",
+    "os": "iOS 26",
+    "direction": "Glassmorphism",
+    "style": "Apple Liquid Glass"
+  },
+  {
+    "file": "iOS 26\\Settings.png",
+    "corporation": "Apple",
+    "os": "iOS 26",
+    "direction": "Glassmorphism",
+    "style": "Apple Liquid Glass"
+  },
+  {
+    "file": "iOS 26\\Stocks.png",
+    "corporation": "Apple",
+    "os": "iOS 26",
+    "direction": "Glassmorphism",
+    "style": "Apple Liquid Glass"
+  },
+  {
+    "file": "iOS 26\\TestFlight.png",
+    "corporation": "Apple",
+    "os": "iOS 26",
+    "direction": "Glassmorphism",
+    "style": "Apple Liquid Glass"
+  },
+  {
+    "file": "iOS 26\\Tips.png",
+    "corporation": "Apple",
+    "os": "iOS 26",
+    "direction": "Glassmorphism",
+    "style": "Apple Liquid Glass"
+  },
+  {
+    "file": "iOS 26\\TV.png",
+    "corporation": "Apple",
+    "os": "iOS 26",
+    "direction": "Glassmorphism",
+    "style": "Apple Liquid Glass"
+  },
+  {
+    "file": "iOS 26\\Voice Memos.png",
+    "corporation": "Apple",
+    "os": "iOS 26",
+    "direction": "Glassmorphism",
+    "style": "Apple Liquid Glass"
+  },
+  {
+    "file": "iOS 26\\Wallet.png",
+    "corporation": "Apple",
+    "os": "iOS 26",
+    "direction": "Glassmorphism",
+    "style": "Apple Liquid Glass"
+  },
+  {
+    "file": "iOS 26\\Watch.png",
+    "corporation": "Apple",
+    "os": "iOS 26",
+    "direction": "Glassmorphism",
+    "style": "Apple Liquid Glass"
+  },
+  {
+    "file": "iOS 26\\Weather.png",
+    "corporation": "Apple",
+    "os": "iOS 26",
+    "direction": "Glassmorphism",
+    "style": "Apple Liquid Glass"
+  },
+  {
+    "file": "iOS 6\\App Store.png",
+    "corporation": "Apple",
+    "os": "iOS 6",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "iOS 6\\Books.png",
+    "corporation": "Apple",
+    "os": "iOS 6",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "iOS 6\\Calculator.png",
+    "corporation": "Apple",
+    "os": "iOS 6",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "iOS 6\\Calendar.png",
+    "corporation": "Apple",
+    "os": "iOS 6",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "iOS 6\\Camera.png",
+    "corporation": "Apple",
+    "os": "iOS 6",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "iOS 6\\Clock.png",
+    "corporation": "Apple",
+    "os": "iOS 6",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "iOS 6\\Compass.png",
+    "corporation": "Apple",
+    "os": "iOS 6",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "iOS 6\\Contacts.png",
+    "corporation": "Apple",
+    "os": "iOS 6",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "iOS 6\\FaceTime.png",
+    "corporation": "Apple",
+    "os": "iOS 6",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "iOS 6\\Find My Friends.png",
+    "corporation": "Apple",
+    "os": "iOS 6",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "iOS 6\\Find My iPhone.png",
+    "corporation": "Apple",
+    "os": "iOS 6",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "iOS 6\\Game Center.png",
+    "corporation": "Apple",
+    "os": "iOS 6",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "iOS 6\\iTunes Store.png",
+    "corporation": "Apple",
+    "os": "iOS 6",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "iOS 6\\Keynote.png",
+    "corporation": "Apple",
+    "os": "iOS 6",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "iOS 6\\Mail.png",
+    "corporation": "Apple",
+    "os": "iOS 6",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "iOS 6\\Maps.png",
+    "corporation": "Apple",
+    "os": "iOS 6",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "iOS 6\\Messages.png",
+    "corporation": "Apple",
+    "os": "iOS 6",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "iOS 6\\Newsstand.png",
+    "corporation": "Apple",
+    "os": "iOS 6",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "iOS 6\\Notes.png",
+    "corporation": "Apple",
+    "os": "iOS 6",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "iOS 6\\Numbers.png",
+    "corporation": "Apple",
+    "os": "iOS 6",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "iOS 6\\Pages.png",
+    "corporation": "Apple",
+    "os": "iOS 6",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "iOS 6\\Passbook.png",
+    "corporation": "Apple",
+    "os": "iOS 6",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "iOS 6\\Phone.png",
+    "corporation": "Apple",
+    "os": "iOS 6",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "iOS 6\\Photo Booth.png",
+    "corporation": "Apple",
+    "os": "iOS 6",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "iOS 6\\Photos.png",
+    "corporation": "Apple",
+    "os": "iOS 6",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "iOS 6\\Reminders.png",
+    "corporation": "Apple",
+    "os": "iOS 6",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "iOS 6\\Safari.png",
+    "corporation": "Apple",
+    "os": "iOS 6",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "iOS 6\\Settings.png",
+    "corporation": "Apple",
+    "os": "iOS 6",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "iOS 6\\Stocks.png",
+    "corporation": "Apple",
+    "os": "iOS 6",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "iOS 6\\Videos.png",
+    "corporation": "Apple",
+    "os": "iOS 6",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "iOS 6\\Voice Memos.png",
+    "corporation": "Apple",
+    "os": "iOS 6",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "iOS 6\\Weather.png",
+    "corporation": "Apple",
+    "os": "iOS 6",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "iOS 7\\App Store.png",
+    "corporation": "Apple",
+    "os": "iOS 7",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "iOS 7\\Books.png",
+    "corporation": "Apple",
+    "os": "iOS 7",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "iOS 7\\Calendar.png",
+    "corporation": "Apple",
+    "os": "iOS 7",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "iOS 7\\Camera.png",
+    "corporation": "Apple",
+    "os": "iOS 7",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "iOS 7\\Clock.png",
+    "corporation": "Apple",
+    "os": "iOS 7",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "iOS 7\\Compass.png",
+    "corporation": "Apple",
+    "os": "iOS 7",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "iOS 7\\Contacts.png",
+    "corporation": "Apple",
+    "os": "iOS 7",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "iOS 7\\FaceTime.png",
+    "corporation": "Apple",
+    "os": "iOS 7",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "iOS 7\\Find My Friends.png",
+    "corporation": "Apple",
+    "os": "iOS 7",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "iOS 7\\Find My iPhone.png",
+    "corporation": "Apple",
+    "os": "iOS 7",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "iOS 7\\Game Center.png",
+    "corporation": "Apple",
+    "os": "iOS 7",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "iOS 7\\iTunes Store.png",
+    "corporation": "Apple",
+    "os": "iOS 7",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "iOS 7\\Keynote.png",
+    "corporation": "Apple",
+    "os": "iOS 7",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "iOS 7\\Mail.png",
+    "corporation": "Apple",
+    "os": "iOS 7",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "iOS 7\\Maps.png",
+    "corporation": "Apple",
+    "os": "iOS 7",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "iOS 7\\Messages.png",
+    "corporation": "Apple",
+    "os": "iOS 7",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "iOS 7\\Music.png",
+    "corporation": "Apple",
+    "os": "iOS 7",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "iOS 7\\News.png",
+    "corporation": "Apple",
+    "os": "iOS 7",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "iOS 7\\Notes.png",
+    "corporation": "Apple",
+    "os": "iOS 7",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "iOS 7\\Numbers.png",
+    "corporation": "Apple",
+    "os": "iOS 7",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "iOS 7\\Pages.png",
+    "corporation": "Apple",
+    "os": "iOS 7",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "iOS 7\\Passbook.png",
+    "corporation": "Apple",
+    "os": "iOS 7",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "iOS 7\\Phone.png",
+    "corporation": "Apple",
+    "os": "iOS 7",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "iOS 7\\Photo Booth.png",
+    "corporation": "Apple",
+    "os": "iOS 7",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "iOS 7\\Photos.png",
+    "corporation": "Apple",
+    "os": "iOS 7",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "iOS 7\\Reminders.png",
+    "corporation": "Apple",
+    "os": "iOS 7",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "iOS 7\\Safari.png",
+    "corporation": "Apple",
+    "os": "iOS 7",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "iOS 7\\Settings.png",
+    "corporation": "Apple",
+    "os": "iOS 7",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "iOS 7\\Stocks.png",
+    "corporation": "Apple",
+    "os": "iOS 7",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "iOS 7\\Videos.png",
+    "corporation": "Apple",
+    "os": "iOS 7",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "iOS 7\\Voice Memos.png",
+    "corporation": "Apple",
+    "os": "iOS 7",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "iOS 7\\Weather.png",
+    "corporation": "Apple",
+    "os": "iOS 7",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "iOS 7\\WWDC.png",
+    "corporation": "Apple",
+    "os": "iOS 7",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "iPhone OS\\Calculator.png",
+    "corporation": "Apple",
+    "os": "iPhone OS",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "iPhone OS\\Calendar.png",
+    "corporation": "Apple",
+    "os": "iPhone OS",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "iPhone OS\\Camera.png",
+    "corporation": "Apple",
+    "os": "iPhone OS",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "iPhone OS\\Clock.png",
+    "corporation": "Apple",
+    "os": "iPhone OS",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "iPhone OS\\Contacts.png",
+    "corporation": "Apple",
+    "os": "iPhone OS",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "iPhone OS\\iPod.png",
+    "corporation": "Apple",
+    "os": "iPhone OS",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "iPhone OS\\iTunes Store.png",
+    "corporation": "Apple",
+    "os": "iPhone OS",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "iPhone OS\\Mail.png",
+    "corporation": "Apple",
+    "os": "iPhone OS",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "iPhone OS\\Maps.png",
+    "corporation": "Apple",
+    "os": "iPhone OS",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "iPhone OS\\Messages.png",
+    "corporation": "Apple",
+    "os": "iPhone OS",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "iPhone OS\\Music.png",
+    "corporation": "Apple",
+    "os": "iPhone OS",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "iPhone OS\\Notes.png",
+    "corporation": "Apple",
+    "os": "iPhone OS",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "iPhone OS\\Phone.png",
+    "corporation": "Apple",
+    "os": "iPhone OS",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "iPhone OS\\Photos.png",
+    "corporation": "Apple",
+    "os": "iPhone OS",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "iPhone OS\\Safari.png",
+    "corporation": "Apple",
+    "os": "iPhone OS",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "iPhone OS\\Settings.png",
+    "corporation": "Apple",
+    "os": "iPhone OS",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "iPhone OS\\Stocks.png",
+    "corporation": "Apple",
+    "os": "iPhone OS",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "iPhone OS\\Videos.png",
+    "corporation": "Apple",
+    "os": "iPhone OS",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "iPhone OS\\Weather.png",
+    "corporation": "Apple",
+    "os": "iPhone OS",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "iPhone OS\\YouTube.png",
+    "corporation": "Apple",
+    "os": "iPhone OS",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.0 Cheetah\\Calculator.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.0 Cheetah",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.0 Cheetah\\Clock.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.0 Cheetah",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.0 Cheetah\\Console.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.0 Cheetah",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.0 Cheetah\\Contacts.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.0 Cheetah",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.0 Cheetah\\Digital Color Meter.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.0 Cheetah",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.0 Cheetah\\Disk Utility.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.0 Cheetah",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.0 Cheetah\\Dock.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.0 Cheetah",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.0 Cheetah\\Empty Trash.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.0 Cheetah",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.0 Cheetah\\Finder.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.0 Cheetah",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.0 Cheetah\\Full Trash.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.0 Cheetah",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.0 Cheetah\\Image Capturer.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.0 Cheetah",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.0 Cheetah\\iMovie.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.0 Cheetah",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.0 Cheetah\\Internal Hard Disk.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.0 Cheetah",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.0 Cheetah\\Internet Explorer for Mac.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.0 Cheetah",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.0 Cheetah\\iTunes.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.0 Cheetah",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.0 Cheetah\\Keychain Access.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.0 Cheetah",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.0 Cheetah\\Mail.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.0 Cheetah",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.0 Cheetah\\Network Utility.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.0 Cheetah",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.0 Cheetah\\Preview.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.0 Cheetah",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.0 Cheetah\\QuickTime Player.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.0 Cheetah",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.0 Cheetah\\Sherlock.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.0 Cheetah",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.0 Cheetah\\Stickies.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.0 Cheetah",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.0 Cheetah\\System Settings.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.0 Cheetah",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.0 Cheetah\\Terminal.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.0 Cheetah",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.0 Cheetah\\Text.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.0 Cheetah",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.0 Cheetah\\TextEdit.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.0 Cheetah",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.10 Yosemite\\AirDisk.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.10 Yosemite",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.10 Yosemite\\AirDrop.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.10 Yosemite",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.10 Yosemite\\AirPort Utility.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.10 Yosemite",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.10 Yosemite\\App Store.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.10 Yosemite",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.10 Yosemite\\Application.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.10 Yosemite",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.10 Yosemite\\Archive Utility.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.10 Yosemite",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.10 Yosemite\\Bluetooth File Exchange.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.10 Yosemite",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.10 Yosemite\\Books.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.10 Yosemite",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.10 Yosemite\\Calculator.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.10 Yosemite",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.10 Yosemite\\Calendar.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.10 Yosemite",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.10 Yosemite\\Clock.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.10 Yosemite",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.10 Yosemite\\Compressor.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.10 Yosemite",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.10 Yosemite\\Console.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.10 Yosemite",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.10 Yosemite\\Contacts.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.10 Yosemite",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.10 Yosemite\\Dashboard.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.10 Yosemite",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.10 Yosemite\\Dictionary.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.10 Yosemite",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.10 Yosemite\\Digital Color Meter.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.10 Yosemite",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.10 Yosemite\\Disk Utility.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.10 Yosemite",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.10 Yosemite\\Dock.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.10 Yosemite",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.10 Yosemite\\Empty Trash.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.10 Yosemite",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.10 Yosemite\\External Hard Disk.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.10 Yosemite",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.10 Yosemite\\FaceTime.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.10 Yosemite",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.10 Yosemite\\Final Cut Pro.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.10 Yosemite",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.10 Yosemite\\Finder.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.10 Yosemite",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.10 Yosemite\\Font Book.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.10 Yosemite",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.10 Yosemite\\Full Trash.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.10 Yosemite",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.10 Yosemite\\Game Center.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.10 Yosemite",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.10 Yosemite\\Generic Folder.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.10 Yosemite",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.10 Yosemite\\Generic.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.10 Yosemite",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.10 Yosemite\\iBooks Author.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.10 Yosemite",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.10 Yosemite\\Image Capture.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.10 Yosemite",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.10 Yosemite\\Image.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.10 Yosemite",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.10 Yosemite\\iMovie.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.10 Yosemite",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.10 Yosemite\\Internal Hard Disk.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.10 Yosemite",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.10 Yosemite\\iTunes.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.10 Yosemite",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.10 Yosemite\\Keychain Access.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.10 Yosemite",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.10 Yosemite\\Keynote.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.10 Yosemite",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.10 Yosemite\\Launchpad.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.10 Yosemite",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.10 Yosemite\\Logic Pro.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.10 Yosemite",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.10 Yosemite\\Mail.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.10 Yosemite",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.10 Yosemite\\MainStage.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.10 Yosemite",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.10 Yosemite\\Maps.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.10 Yosemite",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.10 Yosemite\\Messages.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.10 Yosemite",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.10 Yosemite\\Motion.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.10 Yosemite",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.10 Yosemite\\Network Utility.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.10 Yosemite",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.10 Yosemite\\Notes.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.10 Yosemite",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.10 Yosemite\\Numbers.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.10 Yosemite",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.10 Yosemite\\Pages.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.10 Yosemite",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.10 Yosemite\\Photo Booth.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.10 Yosemite",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.10 Yosemite\\Photos.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.10 Yosemite",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.10 Yosemite\\Preview.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.10 Yosemite",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.10 Yosemite\\QuickTime Player.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.10 Yosemite",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.10 Yosemite\\Reminders.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.10 Yosemite",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.10 Yosemite\\Removable.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.10 Yosemite",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.10 Yosemite\\Safari.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.10 Yosemite",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.10 Yosemite\\Screen Sharing.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.10 Yosemite",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.10 Yosemite\\Smart.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.10 Yosemite",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.10 Yosemite\\System Settings.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.10 Yosemite",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.10 Yosemite\\Terminal.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.10 Yosemite",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.10 Yosemite\\TextEdit.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.10 Yosemite",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.10 Yosemite\\Time Machine Disk.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.10 Yosemite",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.10 Yosemite\\Time Machine.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.10 Yosemite",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.10 Yosemite\\VoiceOver Utility.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.10 Yosemite",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.10 Yosemite\\Xcode.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.10 Yosemite",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.5 Leopard\\Activity Monitor.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.5 Leopard",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.5 Leopard\\AirDisk.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.5 Leopard",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.5 Leopard\\AirPort Utility.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.5 Leopard",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.5 Leopard\\Application.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.5 Leopard",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.5 Leopard\\Applications.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.5 Leopard",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.5 Leopard\\Archive Utility.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.5 Leopard",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.5 Leopard\\Archive.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.5 Leopard",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.5 Leopard\\Audio MIDI Setup.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.5 Leopard",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.5 Leopard\\Automator.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.5 Leopard",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.5 Leopard\\Bluetooth File Exchange.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.5 Leopard",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.5 Leopard\\Calculator.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.5 Leopard",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.5 Leopard\\Calendar.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.5 Leopard",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.5 Leopard\\CD.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.5 Leopard",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.5 Leopard\\Chess.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.5 Leopard",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.5 Leopard\\Console.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.5 Leopard",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.5 Leopard\\Contacts.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.5 Leopard",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.5 Leopard\\Dashboard.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.5 Leopard",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.5 Leopard\\Desktop.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.5 Leopard",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.5 Leopard\\Dictionary.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.5 Leopard",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.5 Leopard\\Digital Color Meter.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.5 Leopard",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.5 Leopard\\Disk Utility.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.5 Leopard",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.5 Leopard\\Documents.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.5 Leopard",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.5 Leopard\\DVD Player.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.5 Leopard",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.5 Leopard\\DVD.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.5 Leopard",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.5 Leopard\\Email.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.5 Leopard",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.5 Leopard\\External Hard Disk.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.5 Leopard",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.5 Leopard\\Finder.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.5 Leopard",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.5 Leopard\\Font Book.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.5 Leopard",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.5 Leopard\\Font TTF.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.5 Leopard",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.5 Leopard\\Front Row.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.5 Leopard",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.5 Leopard\\GarageBand.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.5 Leopard",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.5 Leopard\\Generic Folder.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.5 Leopard",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.5 Leopard\\Generic.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.5 Leopard",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.5 Leopard\\Home.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.5 Leopard",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.5 Leopard\\iChat.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.5 Leopard",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.5 Leopard\\Image Capture.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.5 Leopard",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.5 Leopard\\Image.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.5 Leopard",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.5 Leopard\\iMovie.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.5 Leopard",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.5 Leopard\\iTunes.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.5 Leopard",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.5 Leopard\\iWeb.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.5 Leopard",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.5 Leopard\\Keychain Access.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.5 Leopard",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.5 Leopard\\Keynote.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.5 Leopard",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.5 Leopard\\Mail.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.5 Leopard",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.5 Leopard\\Movies.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.5 Leopard",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.5 Leopard\\Music.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.5 Leopard",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.5 Leopard\\Network Utility.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.5 Leopard",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.5 Leopard\\Numbers.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.5 Leopard",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.5 Leopard\\Pages.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.5 Leopard",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.5 Leopard\\Photo Booth.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.5 Leopard",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.5 Leopard\\Pictures.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.5 Leopard",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.5 Leopard\\Preview.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.5 Leopard",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.5 Leopard\\QuickTime Player.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.5 Leopard",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.5 Leopard\\Removable.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.5 Leopard",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.5 Leopard\\Rich Text.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.5 Leopard",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.5 Leopard\\Safari.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.5 Leopard",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.5 Leopard\\Screen Sharing.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.5 Leopard",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.5 Leopard\\Smart.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.5 Leopard",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.5 Leopard\\Sound.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.5 Leopard",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.5 Leopard\\Stickies.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.5 Leopard",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.5 Leopard\\System Settings.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.5 Leopard",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.5 Leopard\\Terminal.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.5 Leopard",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.5 Leopard\\TextEdit.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.5 Leopard",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.5 Leopard\\Time Machine.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.5 Leopard",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.5 Leopard\\Video.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.5 Leopard",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.5 Leopard\\VoiceOver Utility.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.5 Leopard",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.5 Leopard\\Xcode.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.5 Leopard",
+    "direction": "Skeuomorphism",
+    "style": "Apple Skeuomorphism"
+  },
+  {
+    "file": "Mac OS X 10.9 Mavericks\\App Store.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.9 Mavericks",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.9 Mavericks\\Automator.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.9 Mavericks",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.9 Mavericks\\Books.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.9 Mavericks",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.9 Mavericks\\Calculator.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.9 Mavericks",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.9 Mavericks\\Compressor.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.9 Mavericks",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.9 Mavericks\\Contacts.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.9 Mavericks",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.9 Mavericks\\Dashboard.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.9 Mavericks",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.9 Mavericks\\Dictionary.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.9 Mavericks",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.9 Mavericks\\DVD Player.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.9 Mavericks",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.9 Mavericks\\FaceTime.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.9 Mavericks",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.9 Mavericks\\Final Cut Pro.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.9 Mavericks",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.9 Mavericks\\Finder.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.9 Mavericks",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.9 Mavericks\\Game Center.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.9 Mavericks",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.9 Mavericks\\GarageBand.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.9 Mavericks",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.9 Mavericks\\iBooks Author.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.9 Mavericks",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.9 Mavericks\\iMovie.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.9 Mavericks",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.9 Mavericks\\iPhoto.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.9 Mavericks",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.9 Mavericks\\iTunes.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.9 Mavericks",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.9 Mavericks\\Keynote.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.9 Mavericks",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.9 Mavericks\\Launchpad.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.9 Mavericks",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.9 Mavericks\\Logic Pro.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.9 Mavericks",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.9 Mavericks\\Mail.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.9 Mavericks",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.9 Mavericks\\MainStage.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.9 Mavericks",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.9 Mavericks\\Maps.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.9 Mavericks",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.9 Mavericks\\Messages.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.9 Mavericks",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.9 Mavericks\\Motion.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.9 Mavericks",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.9 Mavericks\\Notes.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.9 Mavericks",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.9 Mavericks\\Numbers.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.9 Mavericks",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.9 Mavericks\\Pages.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.9 Mavericks",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.9 Mavericks\\Photo Booth.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.9 Mavericks",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.9 Mavericks\\Preview.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.9 Mavericks",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.9 Mavericks\\QuickTime Player.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.9 Mavericks",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.9 Mavericks\\Reminders.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.9 Mavericks",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.9 Mavericks\\Safari.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.9 Mavericks",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.9 Mavericks\\System Settings.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.9 Mavericks",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.9 Mavericks\\TextEdit.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.9 Mavericks",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.9 Mavericks\\Time Machine.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.9 Mavericks",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "Mac OS X 10.9 Mavericks\\Xcode.png",
+    "corporation": "Apple",
+    "os": "Mac OS X 10.9 Mavericks",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 10.15 Catalina\\AirDisk.png",
+    "corporation": "Apple",
+    "os": "macOS 10.15 Catalina",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 10.15 Catalina\\AirPort Utility.png",
+    "corporation": "Apple",
+    "os": "macOS 10.15 Catalina",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 10.15 Catalina\\App Store.png",
+    "corporation": "Apple",
+    "os": "macOS 10.15 Catalina",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 10.15 Catalina\\Application.png",
+    "corporation": "Apple",
+    "os": "macOS 10.15 Catalina",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 10.15 Catalina\\Archive Utility.png",
+    "corporation": "Apple",
+    "os": "macOS 10.15 Catalina",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 10.15 Catalina\\Archive.png",
+    "corporation": "Apple",
+    "os": "macOS 10.15 Catalina",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 10.15 Catalina\\Audio MIDI Setup.png",
+    "corporation": "Apple",
+    "os": "macOS 10.15 Catalina",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 10.15 Catalina\\Bluetooth File Exchange.png",
+    "corporation": "Apple",
+    "os": "macOS 10.15 Catalina",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 10.15 Catalina\\Bookmark.png",
+    "corporation": "Apple",
+    "os": "macOS 10.15 Catalina",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 10.15 Catalina\\Books.png",
+    "corporation": "Apple",
+    "os": "macOS 10.15 Catalina",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 10.15 Catalina\\Calculator.png",
+    "corporation": "Apple",
+    "os": "macOS 10.15 Catalina",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 10.15 Catalina\\Calendar.png",
+    "corporation": "Apple",
+    "os": "macOS 10.15 Catalina",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 10.15 Catalina\\CD.png",
+    "corporation": "Apple",
+    "os": "macOS 10.15 Catalina",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 10.15 Catalina\\Clipping Unknown.png",
+    "corporation": "Apple",
+    "os": "macOS 10.15 Catalina",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 10.15 Catalina\\Console.png",
+    "corporation": "Apple",
+    "os": "macOS 10.15 Catalina",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 10.15 Catalina\\Contacts.png",
+    "corporation": "Apple",
+    "os": "macOS 10.15 Catalina",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 10.15 Catalina\\Developer.png",
+    "corporation": "Apple",
+    "os": "macOS 10.15 Catalina",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 10.15 Catalina\\Dictionary.png",
+    "corporation": "Apple",
+    "os": "macOS 10.15 Catalina",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 10.15 Catalina\\Directory Utility.png",
+    "corporation": "Apple",
+    "os": "macOS 10.15 Catalina",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 10.15 Catalina\\Disk Utility.png",
+    "corporation": "Apple",
+    "os": "macOS 10.15 Catalina",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 10.15 Catalina\\DVD Player.png",
+    "corporation": "Apple",
+    "os": "macOS 10.15 Catalina",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 10.15 Catalina\\DVD.png",
+    "corporation": "Apple",
+    "os": "macOS 10.15 Catalina",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 10.15 Catalina\\Email.png",
+    "corporation": "Apple",
+    "os": "macOS 10.15 Catalina",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 10.15 Catalina\\External Hard Disk.png",
+    "corporation": "Apple",
+    "os": "macOS 10.15 Catalina",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 10.15 Catalina\\FaceTime.png",
+    "corporation": "Apple",
+    "os": "macOS 10.15 Catalina",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 10.15 Catalina\\Feedback Assistant.png",
+    "corporation": "Apple",
+    "os": "macOS 10.15 Catalina",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 10.15 Catalina\\Find My.png",
+    "corporation": "Apple",
+    "os": "macOS 10.15 Catalina",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 10.15 Catalina\\Finder.png",
+    "corporation": "Apple",
+    "os": "macOS 10.15 Catalina",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 10.15 Catalina\\Font Book.png",
+    "corporation": "Apple",
+    "os": "macOS 10.15 Catalina",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 10.15 Catalina\\Font TTF.png",
+    "corporation": "Apple",
+    "os": "macOS 10.15 Catalina",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 10.15 Catalina\\Generic Folder.png",
+    "corporation": "Apple",
+    "os": "macOS 10.15 Catalina",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 10.15 Catalina\\Generic Font.png",
+    "corporation": "Apple",
+    "os": "macOS 10.15 Catalina",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 10.15 Catalina\\Generic.png",
+    "corporation": "Apple",
+    "os": "macOS 10.15 Catalina",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 10.15 Catalina\\Home.png",
+    "corporation": "Apple",
+    "os": "macOS 10.15 Catalina",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 10.15 Catalina\\iChat.png",
+    "corporation": "Apple",
+    "os": "macOS 10.15 Catalina",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 10.15 Catalina\\Image Capture.png",
+    "corporation": "Apple",
+    "os": "macOS 10.15 Catalina",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 10.15 Catalina\\Image.png",
+    "corporation": "Apple",
+    "os": "macOS 10.15 Catalina",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 10.15 Catalina\\Internal Hard Disk.png",
+    "corporation": "Apple",
+    "os": "macOS 10.15 Catalina",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 10.15 Catalina\\Keychain Access.png",
+    "corporation": "Apple",
+    "os": "macOS 10.15 Catalina",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 10.15 Catalina\\Launchpad.png",
+    "corporation": "Apple",
+    "os": "macOS 10.15 Catalina",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 10.15 Catalina\\Mail.png",
+    "corporation": "Apple",
+    "os": "macOS 10.15 Catalina",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 10.15 Catalina\\Maps.png",
+    "corporation": "Apple",
+    "os": "macOS 10.15 Catalina",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 10.15 Catalina\\Migration Assistant.png",
+    "corporation": "Apple",
+    "os": "macOS 10.15 Catalina",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 10.15 Catalina\\Music.png",
+    "corporation": "Apple",
+    "os": "macOS 10.15 Catalina",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 10.15 Catalina\\Network Utility.png",
+    "corporation": "Apple",
+    "os": "macOS 10.15 Catalina",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 10.15 Catalina\\News.png",
+    "corporation": "Apple",
+    "os": "macOS 10.15 Catalina",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 10.15 Catalina\\Notes.png",
+    "corporation": "Apple",
+    "os": "macOS 10.15 Catalina",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 10.15 Catalina\\Photo Booth Library.png",
+    "corporation": "Apple",
+    "os": "macOS 10.15 Catalina",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 10.15 Catalina\\Photo Booth.png",
+    "corporation": "Apple",
+    "os": "macOS 10.15 Catalina",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 10.15 Catalina\\Photos Library.png",
+    "corporation": "Apple",
+    "os": "macOS 10.15 Catalina",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 10.15 Catalina\\Photos.png",
+    "corporation": "Apple",
+    "os": "macOS 10.15 Catalina",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 10.15 Catalina\\Podcasts.png",
+    "corporation": "Apple",
+    "os": "macOS 10.15 Catalina",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 10.15 Catalina\\Preview.png",
+    "corporation": "Apple",
+    "os": "macOS 10.15 Catalina",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 10.15 Catalina\\QuickTime Player.png",
+    "corporation": "Apple",
+    "os": "macOS 10.15 Catalina",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 10.15 Catalina\\Reminders.png",
+    "corporation": "Apple",
+    "os": "macOS 10.15 Catalina",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 10.15 Catalina\\Removable.png",
+    "corporation": "Apple",
+    "os": "macOS 10.15 Catalina",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 10.15 Catalina\\Rich Text.png",
+    "corporation": "Apple",
+    "os": "macOS 10.15 Catalina",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 10.15 Catalina\\Safari.png",
+    "corporation": "Apple",
+    "os": "macOS 10.15 Catalina",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 10.15 Catalina\\Screen Sharing.png",
+    "corporation": "Apple",
+    "os": "macOS 10.15 Catalina",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 10.15 Catalina\\Script Editor.png",
+    "corporation": "Apple",
+    "os": "macOS 10.15 Catalina",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 10.15 Catalina\\Siri.png",
+    "corporation": "Apple",
+    "os": "macOS 10.15 Catalina",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 10.15 Catalina\\Smart.png",
+    "corporation": "Apple",
+    "os": "macOS 10.15 Catalina",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 10.15 Catalina\\Sound.png",
+    "corporation": "Apple",
+    "os": "macOS 10.15 Catalina",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 10.15 Catalina\\Stickies.png",
+    "corporation": "Apple",
+    "os": "macOS 10.15 Catalina",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 10.15 Catalina\\Stocks.png",
+    "corporation": "Apple",
+    "os": "macOS 10.15 Catalina",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 10.15 Catalina\\System Settings.png",
+    "corporation": "Apple",
+    "os": "macOS 10.15 Catalina",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 10.15 Catalina\\Terminal.png",
+    "corporation": "Apple",
+    "os": "macOS 10.15 Catalina",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 10.15 Catalina\\Text.png",
+    "corporation": "Apple",
+    "os": "macOS 10.15 Catalina",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 10.15 Catalina\\TextEdit.png",
+    "corporation": "Apple",
+    "os": "macOS 10.15 Catalina",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 10.15 Catalina\\Time Machine Disk.png",
+    "corporation": "Apple",
+    "os": "macOS 10.15 Catalina",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 10.15 Catalina\\Time Machine.png",
+    "corporation": "Apple",
+    "os": "macOS 10.15 Catalina",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 10.15 Catalina\\TV.png",
+    "corporation": "Apple",
+    "os": "macOS 10.15 Catalina",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 10.15 Catalina\\Video.png",
+    "corporation": "Apple",
+    "os": "macOS 10.15 Catalina",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 10.15 Catalina\\Voice Memos.png",
+    "corporation": "Apple",
+    "os": "macOS 10.15 Catalina",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 10.15 Catalina\\VoiceOver Utility.png",
+    "corporation": "Apple",
+    "os": "macOS 10.15 Catalina",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 10.15 Catalina\\Webpage.png",
+    "corporation": "Apple",
+    "os": "macOS 10.15 Catalina",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 11 Big Sur\\App Store.png",
+    "corporation": "Apple",
+    "os": "macOS 11 Big Sur",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 11 Big Sur\\Archive Utility.png",
+    "corporation": "Apple",
+    "os": "macOS 11 Big Sur",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 11 Big Sur\\Automator.png",
+    "corporation": "Apple",
+    "os": "macOS 11 Big Sur",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 11 Big Sur\\Books.png",
+    "corporation": "Apple",
+    "os": "macOS 11 Big Sur",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 11 Big Sur\\Calculator.png",
+    "corporation": "Apple",
+    "os": "macOS 11 Big Sur",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 11 Big Sur\\Calendar.png",
+    "corporation": "Apple",
+    "os": "macOS 11 Big Sur",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 11 Big Sur\\Chess.png",
+    "corporation": "Apple",
+    "os": "macOS 11 Big Sur",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 11 Big Sur\\Compressor.png",
+    "corporation": "Apple",
+    "os": "macOS 11 Big Sur",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 11 Big Sur\\Console.png",
+    "corporation": "Apple",
+    "os": "macOS 11 Big Sur",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 11 Big Sur\\Contacts.png",
+    "corporation": "Apple",
+    "os": "macOS 11 Big Sur",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 11 Big Sur\\Developer.png",
+    "corporation": "Apple",
+    "os": "macOS 11 Big Sur",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 11 Big Sur\\Dictionary.png",
+    "corporation": "Apple",
+    "os": "macOS 11 Big Sur",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 11 Big Sur\\Digital Color Meter.png",
+    "corporation": "Apple",
+    "os": "macOS 11 Big Sur",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 11 Big Sur\\Directory Utility.png",
+    "corporation": "Apple",
+    "os": "macOS 11 Big Sur",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 11 Big Sur\\Disk Utility.png",
+    "corporation": "Apple",
+    "os": "macOS 11 Big Sur",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 11 Big Sur\\DVD Player.png",
+    "corporation": "Apple",
+    "os": "macOS 11 Big Sur",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 11 Big Sur\\External Hard Disk.png",
+    "corporation": "Apple",
+    "os": "macOS 11 Big Sur",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 11 Big Sur\\FaceTime.png",
+    "corporation": "Apple",
+    "os": "macOS 11 Big Sur",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 11 Big Sur\\Feedback Assistant.png",
+    "corporation": "Apple",
+    "os": "macOS 11 Big Sur",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 11 Big Sur\\Final Cut Pro.png",
+    "corporation": "Apple",
+    "os": "macOS 11 Big Sur",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 11 Big Sur\\Find My.png",
+    "corporation": "Apple",
+    "os": "macOS 11 Big Sur",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 11 Big Sur\\Finder.png",
+    "corporation": "Apple",
+    "os": "macOS 11 Big Sur",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 11 Big Sur\\Font Book.png",
+    "corporation": "Apple",
+    "os": "macOS 11 Big Sur",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 11 Big Sur\\GarageBand.png",
+    "corporation": "Apple",
+    "os": "macOS 11 Big Sur",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 11 Big Sur\\Generic Folder.png",
+    "corporation": "Apple",
+    "os": "macOS 11 Big Sur",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 11 Big Sur\\Home.png",
+    "corporation": "Apple",
+    "os": "macOS 11 Big Sur",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 11 Big Sur\\Image Capture.png",
+    "corporation": "Apple",
+    "os": "macOS 11 Big Sur",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 11 Big Sur\\iMovie.png",
+    "corporation": "Apple",
+    "os": "macOS 11 Big Sur",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 11 Big Sur\\Internal Hard Disk.png",
+    "corporation": "Apple",
+    "os": "macOS 11 Big Sur",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 11 Big Sur\\Keychain Access.png",
+    "corporation": "Apple",
+    "os": "macOS 11 Big Sur",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 11 Big Sur\\Keynote.png",
+    "corporation": "Apple",
+    "os": "macOS 11 Big Sur",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 11 Big Sur\\Launchpad.png",
+    "corporation": "Apple",
+    "os": "macOS 11 Big Sur",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 11 Big Sur\\Mail.png",
+    "corporation": "Apple",
+    "os": "macOS 11 Big Sur",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 11 Big Sur\\MainStage.png",
+    "corporation": "Apple",
+    "os": "macOS 11 Big Sur",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 11 Big Sur\\Maps.png",
+    "corporation": "Apple",
+    "os": "macOS 11 Big Sur",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 11 Big Sur\\Messages.png",
+    "corporation": "Apple",
+    "os": "macOS 11 Big Sur",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 11 Big Sur\\Migration Assistant.png",
+    "corporation": "Apple",
+    "os": "macOS 11 Big Sur",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 11 Big Sur\\Motion.png",
+    "corporation": "Apple",
+    "os": "macOS 11 Big Sur",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 11 Big Sur\\Music.png",
+    "corporation": "Apple",
+    "os": "macOS 11 Big Sur",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 11 Big Sur\\News.png",
+    "corporation": "Apple",
+    "os": "macOS 11 Big Sur",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 11 Big Sur\\Notes.png",
+    "corporation": "Apple",
+    "os": "macOS 11 Big Sur",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 11 Big Sur\\Numbers.png",
+    "corporation": "Apple",
+    "os": "macOS 11 Big Sur",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 11 Big Sur\\Pages.png",
+    "corporation": "Apple",
+    "os": "macOS 11 Big Sur",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 11 Big Sur\\Photo Booth Library.png",
+    "corporation": "Apple",
+    "os": "macOS 11 Big Sur",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 11 Big Sur\\Photo Booth.png",
+    "corporation": "Apple",
+    "os": "macOS 11 Big Sur",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 11 Big Sur\\Photos Library.png",
+    "corporation": "Apple",
+    "os": "macOS 11 Big Sur",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 11 Big Sur\\Photos.png",
+    "corporation": "Apple",
+    "os": "macOS 11 Big Sur",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 11 Big Sur\\Podcasts.png",
+    "corporation": "Apple",
+    "os": "macOS 11 Big Sur",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 11 Big Sur\\Preview.png",
+    "corporation": "Apple",
+    "os": "macOS 11 Big Sur",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 11 Big Sur\\QuickTime Player.png",
+    "corporation": "Apple",
+    "os": "macOS 11 Big Sur",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 11 Big Sur\\Reminders.png",
+    "corporation": "Apple",
+    "os": "macOS 11 Big Sur",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 11 Big Sur\\Removable.png",
+    "corporation": "Apple",
+    "os": "macOS 11 Big Sur",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 11 Big Sur\\Safari.png",
+    "corporation": "Apple",
+    "os": "macOS 11 Big Sur",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 11 Big Sur\\Siri.png",
+    "corporation": "Apple",
+    "os": "macOS 11 Big Sur",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 11 Big Sur\\Stickies.png",
+    "corporation": "Apple",
+    "os": "macOS 11 Big Sur",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 11 Big Sur\\Stocks.png",
+    "corporation": "Apple",
+    "os": "macOS 11 Big Sur",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 11 Big Sur\\System Settings.png",
+    "corporation": "Apple",
+    "os": "macOS 11 Big Sur",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 11 Big Sur\\Terminal.png",
+    "corporation": "Apple",
+    "os": "macOS 11 Big Sur",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 11 Big Sur\\TextEdit.png",
+    "corporation": "Apple",
+    "os": "macOS 11 Big Sur",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 11 Big Sur\\Time Machine Disk.png",
+    "corporation": "Apple",
+    "os": "macOS 11 Big Sur",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 11 Big Sur\\Time Machine.png",
+    "corporation": "Apple",
+    "os": "macOS 11 Big Sur",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 11 Big Sur\\TV.png",
+    "corporation": "Apple",
+    "os": "macOS 11 Big Sur",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 11 Big Sur\\Voice Memos.png",
+    "corporation": "Apple",
+    "os": "macOS 11 Big Sur",
+    "direction": "Flat",
+    "style": "Apple Flat by Jony Ive"
+  },
+  {
+    "file": "macOS 26 Tahoe\\App Store.png",
+    "corporation": "Apple",
+    "os": "macOS 26 Tahoe",
+    "direction": "Glassmorphism",
+    "style": "Apple Liquid Glass"
+  },
+  {
+    "file": "macOS 26 Tahoe\\Apps.png",
+    "corporation": "Apple",
+    "os": "macOS 26 Tahoe",
+    "direction": "Glassmorphism",
+    "style": "Apple Liquid Glass"
+  },
+  {
+    "file": "macOS 26 Tahoe\\Archive Utility.png",
+    "corporation": "Apple",
+    "os": "macOS 26 Tahoe",
+    "direction": "Glassmorphism",
+    "style": "Apple Liquid Glass"
+  },
+  {
+    "file": "macOS 26 Tahoe\\Automator.png",
+    "corporation": "Apple",
+    "os": "macOS 26 Tahoe",
+    "direction": "Glassmorphism",
+    "style": "Apple Liquid Glass"
+  },
+  {
+    "file": "macOS 26 Tahoe\\Books.png",
+    "corporation": "Apple",
+    "os": "macOS 26 Tahoe",
+    "direction": "Glassmorphism",
+    "style": "Apple Liquid Glass"
+  },
+  {
+    "file": "macOS 26 Tahoe\\Calculator.png",
+    "corporation": "Apple",
+    "os": "macOS 26 Tahoe",
+    "direction": "Glassmorphism",
+    "style": "Apple Liquid Glass"
+  },
+  {
+    "file": "macOS 26 Tahoe\\Calendar.png",
+    "corporation": "Apple",
+    "os": "macOS 26 Tahoe",
+    "direction": "Glassmorphism",
+    "style": "Apple Liquid Glass"
+  },
+  {
+    "file": "macOS 26 Tahoe\\Chess.png",
+    "corporation": "Apple",
+    "os": "macOS 26 Tahoe",
+    "direction": "Glassmorphism",
+    "style": "Apple Liquid Glass"
+  },
+  {
+    "file": "macOS 26 Tahoe\\Clock.png",
+    "corporation": "Apple",
+    "os": "macOS 26 Tahoe",
+    "direction": "Glassmorphism",
+    "style": "Apple Liquid Glass"
+  },
+  {
+    "file": "macOS 26 Tahoe\\Console.png",
+    "corporation": "Apple",
+    "os": "macOS 26 Tahoe",
+    "direction": "Glassmorphism",
+    "style": "Apple Liquid Glass"
+  },
+  {
+    "file": "macOS 26 Tahoe\\Contacts.png",
+    "corporation": "Apple",
+    "os": "macOS 26 Tahoe",
+    "direction": "Glassmorphism",
+    "style": "Apple Liquid Glass"
+  },
+  {
+    "file": "macOS 26 Tahoe\\Dictionary.png",
+    "corporation": "Apple",
+    "os": "macOS 26 Tahoe",
+    "direction": "Glassmorphism",
+    "style": "Apple Liquid Glass"
+  },
+  {
+    "file": "macOS 26 Tahoe\\Digital Color Meter.png",
+    "corporation": "Apple",
+    "os": "macOS 26 Tahoe",
+    "direction": "Glassmorphism",
+    "style": "Apple Liquid Glass"
+  },
+  {
+    "file": "macOS 26 Tahoe\\DVD Player.png",
+    "corporation": "Apple",
+    "os": "macOS 26 Tahoe",
+    "direction": "Glassmorphism",
+    "style": "Apple Liquid Glass"
+  },
+  {
+    "file": "macOS 26 Tahoe\\FaceTime.png",
+    "corporation": "Apple",
+    "os": "macOS 26 Tahoe",
+    "direction": "Glassmorphism",
+    "style": "Apple Liquid Glass"
+  },
+  {
+    "file": "macOS 26 Tahoe\\Find My.png",
+    "corporation": "Apple",
+    "os": "macOS 26 Tahoe",
+    "direction": "Glassmorphism",
+    "style": "Apple Liquid Glass"
+  },
+  {
+    "file": "macOS 26 Tahoe\\Finder.png",
+    "corporation": "Apple",
+    "os": "macOS 26 Tahoe",
+    "direction": "Glassmorphism",
+    "style": "Apple Liquid Glass"
+  },
+  {
+    "file": "macOS 26 Tahoe\\Font Book.png",
+    "corporation": "Apple",
+    "os": "macOS 26 Tahoe",
+    "direction": "Glassmorphism",
+    "style": "Apple Liquid Glass"
+  },
+  {
+    "file": "macOS 26 Tahoe\\Freeform.png",
+    "corporation": "Apple",
+    "os": "macOS 26 Tahoe",
+    "direction": "Glassmorphism",
+    "style": "Apple Liquid Glass"
+  },
+  {
+    "file": "macOS 26 Tahoe\\Game Center.png",
+    "corporation": "Apple",
+    "os": "macOS 26 Tahoe",
+    "direction": "Glassmorphism",
+    "style": "Apple Liquid Glass"
+  },
+  {
+    "file": "macOS 26 Tahoe\\Games.png",
+    "corporation": "Apple",
+    "os": "macOS 26 Tahoe",
+    "direction": "Glassmorphism",
+    "style": "Apple Liquid Glass"
+  },
+  {
+    "file": "macOS 26 Tahoe\\Home.png",
+    "corporation": "Apple",
+    "os": "macOS 26 Tahoe",
+    "direction": "Glassmorphism",
+    "style": "Apple Liquid Glass"
+  },
+  {
+    "file": "macOS 26 Tahoe\\Keychain Access.png",
+    "corporation": "Apple",
+    "os": "macOS 26 Tahoe",
+    "direction": "Glassmorphism",
+    "style": "Apple Liquid Glass"
+  },
+  {
+    "file": "macOS 26 Tahoe\\Keynote.png",
+    "corporation": "Apple",
+    "os": "macOS 26 Tahoe",
+    "direction": "Glassmorphism",
+    "style": "Apple Liquid Glass"
+  },
+  {
+    "file": "macOS 26 Tahoe\\Mail.png",
+    "corporation": "Apple",
+    "os": "macOS 26 Tahoe",
+    "direction": "Glassmorphism",
+    "style": "Apple Liquid Glass"
+  },
+  {
+    "file": "macOS 26 Tahoe\\Maps.png",
+    "corporation": "Apple",
+    "os": "macOS 26 Tahoe",
+    "direction": "Glassmorphism",
+    "style": "Apple Liquid Glass"
+  },
+  {
+    "file": "macOS 26 Tahoe\\Messages.png",
+    "corporation": "Apple",
+    "os": "macOS 26 Tahoe",
+    "direction": "Glassmorphism",
+    "style": "Apple Liquid Glass"
+  },
+  {
+    "file": "macOS 26 Tahoe\\Music.png",
+    "corporation": "Apple",
+    "os": "macOS 26 Tahoe",
+    "direction": "Glassmorphism",
+    "style": "Apple Liquid Glass"
+  },
+  {
+    "file": "macOS 26 Tahoe\\News.png",
+    "corporation": "Apple",
+    "os": "macOS 26 Tahoe",
+    "direction": "Glassmorphism",
+    "style": "Apple Liquid Glass"
+  },
+  {
+    "file": "macOS 26 Tahoe\\Notes.png",
+    "corporation": "Apple",
+    "os": "macOS 26 Tahoe",
+    "direction": "Glassmorphism",
+    "style": "Apple Liquid Glass"
+  },
+  {
+    "file": "macOS 26 Tahoe\\Numbers.png",
+    "corporation": "Apple",
+    "os": "macOS 26 Tahoe",
+    "direction": "Glassmorphism",
+    "style": "Apple Liquid Glass"
+  },
+  {
+    "file": "macOS 26 Tahoe\\Pages.png",
+    "corporation": "Apple",
+    "os": "macOS 26 Tahoe",
+    "direction": "Glassmorphism",
+    "style": "Apple Liquid Glass"
+  },
+  {
+    "file": "macOS 26 Tahoe\\Passwords.png",
+    "corporation": "Apple",
+    "os": "macOS 26 Tahoe",
+    "direction": "Glassmorphism",
+    "style": "Apple Liquid Glass"
+  },
+  {
+    "file": "macOS 26 Tahoe\\Phone.png",
+    "corporation": "Apple",
+    "os": "macOS 26 Tahoe",
+    "direction": "Glassmorphism",
+    "style": "Apple Liquid Glass"
+  },
+  {
+    "file": "macOS 26 Tahoe\\Photo Booth.png",
+    "corporation": "Apple",
+    "os": "macOS 26 Tahoe",
+    "direction": "Glassmorphism",
+    "style": "Apple Liquid Glass"
+  },
+  {
+    "file": "macOS 26 Tahoe\\Photos.png",
+    "corporation": "Apple",
+    "os": "macOS 26 Tahoe",
+    "direction": "Glassmorphism",
+    "style": "Apple Liquid Glass"
+  },
+  {
+    "file": "macOS 26 Tahoe\\Podcasts.png",
+    "corporation": "Apple",
+    "os": "macOS 26 Tahoe",
+    "direction": "Glassmorphism",
+    "style": "Apple Liquid Glass"
+  },
+  {
+    "file": "macOS 26 Tahoe\\Preview.png",
+    "corporation": "Apple",
+    "os": "macOS 26 Tahoe",
+    "direction": "Glassmorphism",
+    "style": "Apple Liquid Glass"
+  },
+  {
+    "file": "macOS 26 Tahoe\\QuickTime Player.png",
+    "corporation": "Apple",
+    "os": "macOS 26 Tahoe",
+    "direction": "Glassmorphism",
+    "style": "Apple Liquid Glass"
+  },
+  {
+    "file": "macOS 26 Tahoe\\Reminders.png",
+    "corporation": "Apple",
+    "os": "macOS 26 Tahoe",
+    "direction": "Glassmorphism",
+    "style": "Apple Liquid Glass"
+  },
+  {
+    "file": "macOS 26 Tahoe\\Safari.png",
+    "corporation": "Apple",
+    "os": "macOS 26 Tahoe",
+    "direction": "Glassmorphism",
+    "style": "Apple Liquid Glass"
+  },
+  {
+    "file": "macOS 26 Tahoe\\Shortcuts.png",
+    "corporation": "Apple",
+    "os": "macOS 26 Tahoe",
+    "direction": "Glassmorphism",
+    "style": "Apple Liquid Glass"
+  },
+  {
+    "file": "macOS 26 Tahoe\\Siri.png",
+    "corporation": "Apple",
+    "os": "macOS 26 Tahoe",
+    "direction": "Glassmorphism",
+    "style": "Apple Liquid Glass"
+  },
+  {
+    "file": "macOS 26 Tahoe\\Stickies.png",
+    "corporation": "Apple",
+    "os": "macOS 26 Tahoe",
+    "direction": "Glassmorphism",
+    "style": "Apple Liquid Glass"
+  },
+  {
+    "file": "macOS 26 Tahoe\\Stocks.png",
+    "corporation": "Apple",
+    "os": "macOS 26 Tahoe",
+    "direction": "Glassmorphism",
+    "style": "Apple Liquid Glass"
+  },
+  {
+    "file": "macOS 26 Tahoe\\System Settings.png",
+    "corporation": "Apple",
+    "os": "macOS 26 Tahoe",
+    "direction": "Glassmorphism",
+    "style": "Apple Liquid Glass"
+  },
+  {
+    "file": "macOS 26 Tahoe\\TextEdit.png",
+    "corporation": "Apple",
+    "os": "macOS 26 Tahoe",
+    "direction": "Glassmorphism",
+    "style": "Apple Liquid Glass"
+  },
+  {
+    "file": "macOS 26 Tahoe\\Time Machine.png",
+    "corporation": "Apple",
+    "os": "macOS 26 Tahoe",
+    "direction": "Glassmorphism",
+    "style": "Apple Liquid Glass"
+  },
+  {
+    "file": "macOS 26 Tahoe\\Tips.png",
+    "corporation": "Apple",
+    "os": "macOS 26 Tahoe",
+    "direction": "Glassmorphism",
+    "style": "Apple Liquid Glass"
+  },
+  {
+    "file": "macOS 26 Tahoe\\TV.png",
+    "corporation": "Apple",
+    "os": "macOS 26 Tahoe",
+    "direction": "Glassmorphism",
+    "style": "Apple Liquid Glass"
+  },
+  {
+    "file": "macOS 26 Tahoe\\Voice Memos.png",
+    "corporation": "Apple",
+    "os": "macOS 26 Tahoe",
+    "direction": "Glassmorphism",
+    "style": "Apple Liquid Glass"
+  },
+  {
+    "file": "macOS 26 Tahoe\\Weather.png",
+    "corporation": "Apple",
+    "os": "macOS 26 Tahoe",
+    "direction": "Glassmorphism",
+    "style": "Apple Liquid Glass"
+  },
+  {
+    "file": "Windows 10\\Accessibility.png",
+    "corporation": "Microsoft",
+    "os": "Windows 10",
+    "direction": "Flat",
+    "style": "Windows Metro"
+  },
+  {
+    "file": "Windows 10\\Archive.png",
+    "corporation": "Microsoft",
+    "os": "Windows 10",
+    "direction": "Flat",
+    "style": "Windows Metro"
+  },
+  {
+    "file": "Windows 10\\Calculator.png",
+    "corporation": "Microsoft",
+    "os": "Windows 10",
+    "direction": "Flat",
+    "style": "Windows Metro"
+  },
+  {
+    "file": "Windows 10\\Calendar.png",
+    "corporation": "Microsoft",
+    "os": "Windows 10",
+    "direction": "Flat",
+    "style": "Windows Metro"
+  },
+  {
+    "file": "Windows 10\\Clock.png",
+    "corporation": "Microsoft",
+    "os": "Windows 10",
+    "direction": "Flat",
+    "style": "Windows Metro"
+  },
+  {
+    "file": "Windows 10\\Computer.png",
+    "corporation": "Microsoft",
+    "os": "Windows 10",
+    "direction": "Flat",
+    "style": "Windows Metro"
+  },
+  {
+    "file": "Windows 10\\Default Programs.png",
+    "corporation": "Microsoft",
+    "os": "Windows 10",
+    "direction": "Flat",
+    "style": "Windows Metro"
+  },
+  {
+    "file": "Windows 10\\Default.png",
+    "corporation": "Microsoft",
+    "os": "Windows 10",
+    "direction": "Flat",
+    "style": "Windows Metro"
+  },
+  {
+    "file": "Windows 10\\Desktop.png",
+    "corporation": "Microsoft",
+    "os": "Windows 10",
+    "direction": "Flat",
+    "style": "Windows Metro"
+  },
+  {
+    "file": "Windows 10\\Display.png",
+    "corporation": "Microsoft",
+    "os": "Windows 10",
+    "direction": "Flat",
+    "style": "Windows Metro"
+  },
+  {
+    "file": "Windows 10\\Documents.png",
+    "corporation": "Microsoft",
+    "os": "Windows 10",
+    "direction": "Flat",
+    "style": "Windows Metro"
+  },
+  {
+    "file": "Windows 10\\Downloads.png",
+    "corporation": "Microsoft",
+    "os": "Windows 10",
+    "direction": "Flat",
+    "style": "Windows Metro"
+  },
+  {
+    "file": "Windows 10\\Edge.png",
+    "corporation": "Microsoft",
+    "os": "Windows 10",
+    "direction": "Flat",
+    "style": "Windows Metro"
+  },
+  {
+    "file": "Windows 10\\Empty Recycle Bin.png",
+    "corporation": "Microsoft",
+    "os": "Windows 10",
+    "direction": "Flat",
+    "style": "Windows Metro"
+  },
+  {
+    "file": "Windows 10\\Favorites.png",
+    "corporation": "Microsoft",
+    "os": "Windows 10",
+    "direction": "Flat",
+    "style": "Windows Metro"
+  },
+  {
+    "file": "Windows 10\\File Explorer.png",
+    "corporation": "Microsoft",
+    "os": "Windows 10",
+    "direction": "Flat",
+    "style": "Windows Metro"
+  },
+  {
+    "file": "Windows 10\\Full Recycle Bin.png",
+    "corporation": "Microsoft",
+    "os": "Windows 10",
+    "direction": "Flat",
+    "style": "Windows Metro"
+  },
+  {
+    "file": "Windows 10\\Generic Application.png",
+    "corporation": "Microsoft",
+    "os": "Windows 10",
+    "direction": "Flat",
+    "style": "Windows Metro"
+  },
+  {
+    "file": "Windows 10\\Generic Document.png",
+    "corporation": "Microsoft",
+    "os": "Windows 10",
+    "direction": "Flat",
+    "style": "Windows Metro"
+  },
+  {
+    "file": "Windows 10\\Generic.png",
+    "corporation": "Microsoft",
+    "os": "Windows 10",
+    "direction": "Flat",
+    "style": "Windows Metro"
+  },
+  {
+    "file": "Windows 10\\Homegroup.png",
+    "corporation": "Microsoft",
+    "os": "Windows 10",
+    "direction": "Flat",
+    "style": "Windows Metro"
+  },
+  {
+    "file": "Windows 10\\Image GIF.png",
+    "corporation": "Microsoft",
+    "os": "Windows 10",
+    "direction": "Flat",
+    "style": "Windows Metro"
+  },
+  {
+    "file": "Windows 10\\Image JPG.png",
+    "corporation": "Microsoft",
+    "os": "Windows 10",
+    "direction": "Flat",
+    "style": "Windows Metro"
+  },
+  {
+    "file": "Windows 10\\Installer.png",
+    "corporation": "Microsoft",
+    "os": "Windows 10",
+    "direction": "Flat",
+    "style": "Windows Metro"
+  },
+  {
+    "file": "Windows 10\\Internal.png",
+    "corporation": "Microsoft",
+    "os": "Windows 10",
+    "direction": "Flat",
+    "style": "Windows Metro"
+  },
+  {
+    "file": "Windows 10\\International.png",
+    "corporation": "Microsoft",
+    "os": "Windows 10",
+    "direction": "Flat",
+    "style": "Windows Metro"
+  },
+  {
+    "file": "Windows 10\\Mail.png",
+    "corporation": "Microsoft",
+    "os": "Windows 10",
+    "direction": "Flat",
+    "style": "Windows Metro"
+  },
+  {
+    "file": "Windows 10\\Network.png",
+    "corporation": "Microsoft",
+    "os": "Windows 10",
+    "direction": "Flat",
+    "style": "Windows Metro"
+  },
+  {
+    "file": "Windows 10\\Pictures.png",
+    "corporation": "Microsoft",
+    "os": "Windows 10",
+    "direction": "Flat",
+    "style": "Windows Metro"
+  },
+  {
+    "file": "Windows 10\\Printer.png",
+    "corporation": "Microsoft",
+    "os": "Windows 10",
+    "direction": "Flat",
+    "style": "Windows Metro"
+  },
+  {
+    "file": "Windows 10\\RTF Document.png",
+    "corporation": "Microsoft",
+    "os": "Windows 10",
+    "direction": "Flat",
+    "style": "Windows Metro"
+  },
+  {
+    "file": "Windows 10\\Run.png",
+    "corporation": "Microsoft",
+    "os": "Windows 10",
+    "direction": "Flat",
+    "style": "Windows Metro"
+  },
+  {
+    "file": "Windows 10\\Settings.png",
+    "corporation": "Microsoft",
+    "os": "Windows 10",
+    "direction": "Flat",
+    "style": "Windows Metro"
+  },
+  {
+    "file": "Windows 10\\System.png",
+    "corporation": "Microsoft",
+    "os": "Windows 10",
+    "direction": "Flat",
+    "style": "Windows Metro"
+  },
+  {
+    "file": "Windows 10\\Text Document.png",
+    "corporation": "Microsoft",
+    "os": "Windows 10",
+    "direction": "Flat",
+    "style": "Windows Metro"
+  },
+  {
+    "file": "Windows 10\\Video Editor.png",
+    "corporation": "Microsoft",
+    "os": "Windows 10",
+    "direction": "Flat",
+    "style": "Windows Metro"
+  },
+  {
+    "file": "Windows 10\\Videos.png",
+    "corporation": "Microsoft",
+    "os": "Windows 10",
+    "direction": "Flat",
+    "style": "Windows Metro"
+  },
+  {
+    "file": "Windows 10\\Voice Recorder.png",
+    "corporation": "Microsoft",
+    "os": "Windows 10",
+    "direction": "Flat",
+    "style": "Windows Metro"
+  },
+  {
+    "file": "Windows 10\\Webpage.png",
+    "corporation": "Microsoft",
+    "os": "Windows 10",
+    "direction": "Flat",
+    "style": "Windows Metro"
+  },
+  {
+    "file": "Windows 11\\Calculator.png",
+    "corporation": "Microsoft",
+    "os": "Windows 11",
+    "direction": "Flat",
+    "style": "Windows Fluent"
+  },
+  {
+    "file": "Windows 11\\Calendar.png",
+    "corporation": "Microsoft",
+    "os": "Windows 11",
+    "direction": "Flat",
+    "style": "Windows Fluent"
+  },
+  {
+    "file": "Windows 11\\Clock.png",
+    "corporation": "Microsoft",
+    "os": "Windows 11",
+    "direction": "Flat",
+    "style": "Windows Fluent"
+  },
+  {
+    "file": "Windows 11\\Computer.png",
+    "corporation": "Microsoft",
+    "os": "Windows 11",
+    "direction": "Flat",
+    "style": "Windows Fluent"
+  },
+  {
+    "file": "Windows 11\\Desktop.png",
+    "corporation": "Microsoft",
+    "os": "Windows 11",
+    "direction": "Flat",
+    "style": "Windows Fluent"
+  },
+  {
+    "file": "Windows 11\\File Explorer.png",
+    "corporation": "Microsoft",
+    "os": "Windows 11",
+    "direction": "Flat",
+    "style": "Windows Fluent"
+  },
+  {
+    "file": "Windows 11\\Generic Folder.png",
+    "corporation": "Microsoft",
+    "os": "Windows 11",
+    "direction": "Flat",
+    "style": "Windows Fluent"
+  },
+  {
+    "file": "Windows 11\\Mail.png",
+    "corporation": "Microsoft",
+    "os": "Windows 11",
+    "direction": "Flat",
+    "style": "Windows Fluent"
+  },
+  {
+    "file": "Windows 11\\Media Player.png",
+    "corporation": "Microsoft",
+    "os": "Windows 11",
+    "direction": "Flat",
+    "style": "Windows Fluent"
+  },
+  {
+    "file": "Windows 11\\Network.png",
+    "corporation": "Microsoft",
+    "os": "Windows 11",
+    "direction": "Flat",
+    "style": "Windows Fluent"
+  },
+  {
+    "file": "Windows 11\\Notepad.png",
+    "corporation": "Microsoft",
+    "os": "Windows 11",
+    "direction": "Flat",
+    "style": "Windows Fluent"
+  },
+  {
+    "file": "Windows 11\\Paint.png",
+    "corporation": "Microsoft",
+    "os": "Windows 11",
+    "direction": "Flat",
+    "style": "Windows Fluent"
+  },
+  {
+    "file": "Windows 11\\Run.png",
+    "corporation": "Microsoft",
+    "os": "Windows 11",
+    "direction": "Flat",
+    "style": "Windows Fluent"
+  },
+  {
+    "file": "Windows 11\\Video Editor.png",
+    "corporation": "Microsoft",
+    "os": "Windows 11",
+    "direction": "Flat",
+    "style": "Windows Fluent"
+  },
+  {
+    "file": "Windows 11\\Video Folder.png",
+    "corporation": "Microsoft",
+    "os": "Windows 11",
+    "direction": "Flat",
+    "style": "Windows Fluent"
+  },
+  {
+    "file": "Windows 11\\Voice Recorder.png",
+    "corporation": "Microsoft",
+    "os": "Windows 11",
+    "direction": "Flat",
+    "style": "Windows Fluent"
+  },
+  {
+    "file": "Windows 3.0\\Address Book.png",
+    "corporation": "Microsoft",
+    "os": "Windows 3.0",
+    "direction": "Retro",
+    "style": "Windows 80-90s Retro"
+  },
+  {
+    "file": "Windows 3.0\\Appearance.png",
+    "corporation": "Microsoft",
+    "os": "Windows 3.0",
+    "direction": "Retro",
+    "style": "Windows 80-90s Retro"
+  },
+  {
+    "file": "Windows 3.0\\Calculator.png",
+    "corporation": "Microsoft",
+    "os": "Windows 3.0",
+    "direction": "Retro",
+    "style": "Windows 80-90s Retro"
+  },
+  {
+    "file": "Windows 3.0\\Calendar.png",
+    "corporation": "Microsoft",
+    "os": "Windows 3.0",
+    "direction": "Retro",
+    "style": "Windows 80-90s Retro"
+  },
+  {
+    "file": "Windows 3.0\\Clock.png",
+    "corporation": "Microsoft",
+    "os": "Windows 3.0",
+    "direction": "Retro",
+    "style": "Windows 80-90s Retro"
+  },
+  {
+    "file": "Windows 3.0\\Date and Time.png",
+    "corporation": "Microsoft",
+    "os": "Windows 3.0",
+    "direction": "Retro",
+    "style": "Windows 80-90s Retro"
+  },
+  {
+    "file": "Windows 3.0\\File Explorer.png",
+    "corporation": "Microsoft",
+    "os": "Windows 3.0",
+    "direction": "Retro",
+    "style": "Windows 80-90s Retro"
+  },
+  {
+    "file": "Windows 3.0\\Help.png",
+    "corporation": "Microsoft",
+    "os": "Windows 3.0",
+    "direction": "Retro",
+    "style": "Windows 80-90s Retro"
+  },
+  {
+    "file": "Windows 3.0\\Installer.png",
+    "corporation": "Microsoft",
+    "os": "Windows 3.0",
+    "direction": "Retro",
+    "style": "Windows 80-90s Retro"
+  },
+  {
+    "file": "Windows 3.0\\International.png",
+    "corporation": "Microsoft",
+    "os": "Windows 3.0",
+    "direction": "Retro",
+    "style": "Windows 80-90s Retro"
+  },
+  {
+    "file": "Windows 3.0\\Keyboard.png",
+    "corporation": "Microsoft",
+    "os": "Windows 3.0",
+    "direction": "Retro",
+    "style": "Windows 80-90s Retro"
+  },
+  {
+    "file": "Windows 3.0\\Mouse.png",
+    "corporation": "Microsoft",
+    "os": "Windows 3.0",
+    "direction": "Retro",
+    "style": "Windows 80-90s Retro"
+  },
+  {
+    "file": "Windows 3.0\\Notepad.png",
+    "corporation": "Microsoft",
+    "os": "Windows 3.0",
+    "direction": "Retro",
+    "style": "Windows 80-90s Retro"
+  },
+  {
+    "file": "Windows 3.0\\Paint.png",
+    "corporation": "Microsoft",
+    "os": "Windows 3.0",
+    "direction": "Retro",
+    "style": "Windows 80-90s Retro"
+  },
+  {
+    "file": "Windows 3.0\\Settings.png",
+    "corporation": "Microsoft",
+    "os": "Windows 3.0",
+    "direction": "Retro",
+    "style": "Windows 80-90s Retro"
+  },
+  {
+    "file": "Windows 3.0\\Sound.png",
+    "corporation": "Microsoft",
+    "os": "Windows 3.0",
+    "direction": "Retro",
+    "style": "Windows 80-90s Retro"
+  },
+  {
+    "file": "Windows 3.0\\Wordpad.png",
+    "corporation": "Microsoft",
+    "os": "Windows 3.0",
+    "direction": "Retro",
+    "style": "Windows 80-90s Retro"
+  },
+  {
+    "file": "Windows 7\\Calculator.png",
+    "corporation": "Microsoft",
+    "os": "Windows 7",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "Windows 7\\Computer.png",
+    "corporation": "Microsoft",
+    "os": "Windows 7",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "Windows 7\\Desktop.png",
+    "corporation": "Microsoft",
+    "os": "Windows 7",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "Windows 7\\Documents.png",
+    "corporation": "Microsoft",
+    "os": "Windows 7",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "Windows 7\\Downloads.png",
+    "corporation": "Microsoft",
+    "os": "Windows 7",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "Windows 7\\Explorer.png",
+    "corporation": "Microsoft",
+    "os": "Windows 7",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "Windows 7\\Favorites.png",
+    "corporation": "Microsoft",
+    "os": "Windows 7",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "Windows 7\\File Explorer.png",
+    "corporation": "Microsoft",
+    "os": "Windows 7",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "Windows 7\\Home.png",
+    "corporation": "Microsoft",
+    "os": "Windows 7",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "Windows 7\\Homegroup.png",
+    "corporation": "Microsoft",
+    "os": "Windows 7",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "Windows 7\\Mail.png",
+    "corporation": "Microsoft",
+    "os": "Windows 7",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "Windows 7\\Media Player.png",
+    "corporation": "Microsoft",
+    "os": "Windows 7",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "Windows 7\\Messenger.png",
+    "corporation": "Microsoft",
+    "os": "Windows 7",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "Windows 7\\Movie Maker.png",
+    "corporation": "Microsoft",
+    "os": "Windows 7",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "Windows 7\\Music.png",
+    "corporation": "Microsoft",
+    "os": "Windows 7",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "Windows 7\\Network.png",
+    "corporation": "Microsoft",
+    "os": "Windows 7",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "Windows 7\\Notepad.png",
+    "corporation": "Microsoft",
+    "os": "Windows 7",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "Windows 7\\Paint.png",
+    "corporation": "Microsoft",
+    "os": "Windows 7",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "Windows 7\\Photo Gallery.png",
+    "corporation": "Microsoft",
+    "os": "Windows 7",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "Windows 7\\Photo Viewer.png",
+    "corporation": "Microsoft",
+    "os": "Windows 7",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "Windows 7\\Pictures.png",
+    "corporation": "Microsoft",
+    "os": "Windows 7",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "Windows 7\\Settings.png",
+    "corporation": "Microsoft",
+    "os": "Windows 7",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "Windows 7\\Snipping Tool.png",
+    "corporation": "Microsoft",
+    "os": "Windows 7",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "Windows 7\\Themes.png",
+    "corporation": "Microsoft",
+    "os": "Windows 7",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "Windows 7\\Videos.png",
+    "corporation": "Microsoft",
+    "os": "Windows 7",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "Windows 7\\WordPad.png",
+    "corporation": "Microsoft",
+    "os": "Windows 7",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "Windows 98\\Address Book.png",
+    "corporation": "Microsoft",
+    "os": "Windows 98",
+    "direction": "Retro",
+    "style": "Windows 80-90s Retro"
+  },
+  {
+    "file": "Windows 98\\Applications.png",
+    "corporation": "Microsoft",
+    "os": "Windows 98",
+    "direction": "Retro",
+    "style": "Windows 80-90s Retro"
+  },
+  {
+    "file": "Windows 98\\Calculator.png",
+    "corporation": "Microsoft",
+    "os": "Windows 98",
+    "direction": "Retro",
+    "style": "Windows 80-90s Retro"
+  },
+  {
+    "file": "Windows 98\\CD Player.png",
+    "corporation": "Microsoft",
+    "os": "Windows 98",
+    "direction": "Retro",
+    "style": "Windows 80-90s Retro"
+  },
+  {
+    "file": "Windows 98\\CD.png",
+    "corporation": "Microsoft",
+    "os": "Windows 98",
+    "direction": "Retro",
+    "style": "Windows 80-90s Retro"
+  },
+  {
+    "file": "Windows 98\\Computer.png",
+    "corporation": "Microsoft",
+    "os": "Windows 98",
+    "direction": "Retro",
+    "style": "Windows 80-90s Retro"
+  },
+  {
+    "file": "Windows 98\\Date and Time.png",
+    "corporation": "Microsoft",
+    "os": "Windows 98",
+    "direction": "Retro",
+    "style": "Windows 80-90s Retro"
+  },
+  {
+    "file": "Windows 98\\Desktop.png",
+    "corporation": "Microsoft",
+    "os": "Windows 98",
+    "direction": "Retro",
+    "style": "Windows 80-90s Retro"
+  },
+  {
+    "file": "Windows 98\\Display.png",
+    "corporation": "Microsoft",
+    "os": "Windows 98",
+    "direction": "Retro",
+    "style": "Windows 80-90s Retro"
+  },
+  {
+    "file": "Windows 98\\Documents.png",
+    "corporation": "Microsoft",
+    "os": "Windows 98",
+    "direction": "Retro",
+    "style": "Windows 80-90s Retro"
+  },
+  {
+    "file": "Windows 98\\Email.png",
+    "corporation": "Microsoft",
+    "os": "Windows 98",
+    "direction": "Retro",
+    "style": "Windows 80-90s Retro"
+  },
+  {
+    "file": "Windows 98\\Empty Recycle Bin.png",
+    "corporation": "Microsoft",
+    "os": "Windows 98",
+    "direction": "Retro",
+    "style": "Windows 80-90s Retro"
+  },
+  {
+    "file": "Windows 98\\Font TTF.png",
+    "corporation": "Microsoft",
+    "os": "Windows 98",
+    "direction": "Retro",
+    "style": "Windows 80-90s Retro"
+  },
+  {
+    "file": "Windows 98\\Font.png",
+    "corporation": "Microsoft",
+    "os": "Windows 98",
+    "direction": "Retro",
+    "style": "Windows 80-90s Retro"
+  },
+  {
+    "file": "Windows 98\\Fonts.png",
+    "corporation": "Microsoft",
+    "os": "Windows 98",
+    "direction": "Retro",
+    "style": "Windows 80-90s Retro"
+  },
+  {
+    "file": "Windows 98\\Full Recycle Bin.png",
+    "corporation": "Microsoft",
+    "os": "Windows 98",
+    "direction": "Retro",
+    "style": "Windows 80-90s Retro"
+  },
+  {
+    "file": "Windows 98\\Generic Application.png",
+    "corporation": "Microsoft",
+    "os": "Windows 98",
+    "direction": "Retro",
+    "style": "Windows 80-90s Retro"
+  },
+  {
+    "file": "Windows 98\\Generic Folder.png",
+    "corporation": "Microsoft",
+    "os": "Windows 98",
+    "direction": "Retro",
+    "style": "Windows 80-90s Retro"
+  },
+  {
+    "file": "Windows 98\\Internal.png",
+    "corporation": "Microsoft",
+    "os": "Windows 98",
+    "direction": "Retro",
+    "style": "Windows 80-90s Retro"
+  },
+  {
+    "file": "Windows 98\\International.png",
+    "corporation": "Microsoft",
+    "os": "Windows 98",
+    "direction": "Retro",
+    "style": "Windows 80-90s Retro"
+  },
+  {
+    "file": "Windows 98\\Internet Explorer.png",
+    "corporation": "Microsoft",
+    "os": "Windows 98",
+    "direction": "Retro",
+    "style": "Windows 80-90s Retro"
+  },
+  {
+    "file": "Windows 98\\Keyboard.png",
+    "corporation": "Microsoft",
+    "os": "Windows 98",
+    "direction": "Retro",
+    "style": "Windows 80-90s Retro"
+  },
+  {
+    "file": "Windows 98\\Mail.png",
+    "corporation": "Microsoft",
+    "os": "Windows 98",
+    "direction": "Retro",
+    "style": "Windows 80-90s Retro"
+  },
+  {
+    "file": "Windows 98\\Mouse.png",
+    "corporation": "Microsoft",
+    "os": "Windows 98",
+    "direction": "Retro",
+    "style": "Windows 80-90s Retro"
+  },
+  {
+    "file": "Windows 98\\Network.png",
+    "corporation": "Microsoft",
+    "os": "Windows 98",
+    "direction": "Retro",
+    "style": "Windows 80-90s Retro"
+  },
+  {
+    "file": "Windows 98\\Notepad.png",
+    "corporation": "Microsoft",
+    "os": "Windows 98",
+    "direction": "Retro",
+    "style": "Windows 80-90s Retro"
+  },
+  {
+    "file": "Windows 98\\Paint.png",
+    "corporation": "Microsoft",
+    "os": "Windows 98",
+    "direction": "Retro",
+    "style": "Windows 80-90s Retro"
+  },
+  {
+    "file": "Windows 98\\Power Management.png",
+    "corporation": "Microsoft",
+    "os": "Windows 98",
+    "direction": "Retro",
+    "style": "Windows 80-90s Retro"
+  },
+  {
+    "file": "Windows 98\\Printer.png",
+    "corporation": "Microsoft",
+    "os": "Windows 98",
+    "direction": "Retro",
+    "style": "Windows 80-90s Retro"
+  },
+  {
+    "file": "Windows 98\\Run.png",
+    "corporation": "Microsoft",
+    "os": "Windows 98",
+    "direction": "Retro",
+    "style": "Windows 80-90s Retro"
+  },
+  {
+    "file": "Windows 98\\Settings Menu.png",
+    "corporation": "Microsoft",
+    "os": "Windows 98",
+    "direction": "Retro",
+    "style": "Windows 80-90s Retro"
+  },
+  {
+    "file": "Windows 98\\Settings.png",
+    "corporation": "Microsoft",
+    "os": "Windows 98",
+    "direction": "Retro",
+    "style": "Windows 80-90s Retro"
+  },
+  {
+    "file": "Windows 98\\Sound Settings.png",
+    "corporation": "Microsoft",
+    "os": "Windows 98",
+    "direction": "Retro",
+    "style": "Windows 80-90s Retro"
+  },
+  {
+    "file": "Windows 98\\Sound.png",
+    "corporation": "Microsoft",
+    "os": "Windows 98",
+    "direction": "Retro",
+    "style": "Windows 80-90s Retro"
+  },
+  {
+    "file": "Windows 98\\System.png",
+    "corporation": "Microsoft",
+    "os": "Windows 98",
+    "direction": "Retro",
+    "style": "Windows 80-90s Retro"
+  },
+  {
+    "file": "Windows 98\\Themes.png",
+    "corporation": "Microsoft",
+    "os": "Windows 98",
+    "direction": "Retro",
+    "style": "Windows 80-90s Retro"
+  },
+  {
+    "file": "Windows 98\\Video.png",
+    "corporation": "Microsoft",
+    "os": "Windows 98",
+    "direction": "Retro",
+    "style": "Windows 80-90s Retro"
+  },
+  {
+    "file": "Windows 98\\Voice Recorder.png",
+    "corporation": "Microsoft",
+    "os": "Windows 98",
+    "direction": "Retro",
+    "style": "Windows 80-90s Retro"
+  },
+  {
+    "file": "Windows 98\\Volume Mixer.png",
+    "corporation": "Microsoft",
+    "os": "Windows 98",
+    "direction": "Retro",
+    "style": "Windows 80-90s Retro"
+  },
+  {
+    "file": "Windows 98\\Windows Media Player.png",
+    "corporation": "Microsoft",
+    "os": "Windows 98",
+    "direction": "Retro",
+    "style": "Windows 80-90s Retro"
+  },
+  {
+    "file": "Windows 98\\WordPad.png",
+    "corporation": "Microsoft",
+    "os": "Windows 98",
+    "direction": "Retro",
+    "style": "Windows 80-90s Retro"
+  },
+  {
+    "file": "Windows Vista\\Address Book.png",
+    "corporation": "Microsoft",
+    "os": "Windows Vista",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "Windows Vista\\Archive.png",
+    "corporation": "Microsoft",
+    "os": "Windows Vista",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "Windows Vista\\Calculator.png",
+    "corporation": "Microsoft",
+    "os": "Windows Vista",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "Windows Vista\\Calendar.png",
+    "corporation": "Microsoft",
+    "os": "Windows Vista",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "Windows Vista\\CD.png",
+    "corporation": "Microsoft",
+    "os": "Windows Vista",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "Windows Vista\\Computer.png",
+    "corporation": "Microsoft",
+    "os": "Windows Vista",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "Windows Vista\\Desktop.png",
+    "corporation": "Microsoft",
+    "os": "Windows Vista",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "Windows Vista\\Documents.png",
+    "corporation": "Microsoft",
+    "os": "Windows Vista",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "Windows Vista\\Downloads.png",
+    "corporation": "Microsoft",
+    "os": "Windows Vista",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "Windows Vista\\DVD.png",
+    "corporation": "Microsoft",
+    "os": "Windows Vista",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "Windows Vista\\Dynamic-link Library.png",
+    "corporation": "Microsoft",
+    "os": "Windows Vista",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "Windows Vista\\Empty Recycle Bin.png",
+    "corporation": "Microsoft",
+    "os": "Windows Vista",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "Windows Vista\\Font.png",
+    "corporation": "Microsoft",
+    "os": "Windows Vista",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "Windows Vista\\Full Recycle Bin.png",
+    "corporation": "Microsoft",
+    "os": "Windows Vista",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "Windows Vista\\Generic Application.png",
+    "corporation": "Microsoft",
+    "os": "Windows Vista",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "Windows Vista\\Generic Document.png",
+    "corporation": "Microsoft",
+    "os": "Windows Vista",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "Windows Vista\\Generic Folder.png",
+    "corporation": "Microsoft",
+    "os": "Windows Vista",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "Windows Vista\\Home.png",
+    "corporation": "Microsoft",
+    "os": "Windows Vista",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "Windows Vista\\Image BMP.png",
+    "corporation": "Microsoft",
+    "os": "Windows Vista",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "Windows Vista\\Image GIF.png",
+    "corporation": "Microsoft",
+    "os": "Windows Vista",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "Windows Vista\\Image JPG.png",
+    "corporation": "Microsoft",
+    "os": "Windows Vista",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "Windows Vista\\Image PNG.png",
+    "corporation": "Microsoft",
+    "os": "Windows Vista",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "Windows Vista\\Internal.png",
+    "corporation": "Microsoft",
+    "os": "Windows Vista",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "Windows Vista\\Internet Explorer.png",
+    "corporation": "Microsoft",
+    "os": "Windows Vista",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "Windows Vista\\Mail.png",
+    "corporation": "Microsoft",
+    "os": "Windows Vista",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "Windows Vista\\Media Center.png",
+    "corporation": "Microsoft",
+    "os": "Windows Vista",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "Windows Vista\\Media Player.png",
+    "corporation": "Microsoft",
+    "os": "Windows Vista",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "Windows Vista\\Messenger.png",
+    "corporation": "Microsoft",
+    "os": "Windows Vista",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "Windows Vista\\Movie Maker.png",
+    "corporation": "Microsoft",
+    "os": "Windows Vista",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "Windows Vista\\Music.png",
+    "corporation": "Microsoft",
+    "os": "Windows Vista",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "Windows Vista\\Network.png",
+    "corporation": "Microsoft",
+    "os": "Windows Vista",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "Windows Vista\\Notepad.png",
+    "corporation": "Microsoft",
+    "os": "Windows Vista",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "Windows Vista\\Paint.png",
+    "corporation": "Microsoft",
+    "os": "Windows Vista",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "Windows Vista\\Pictures.png",
+    "corporation": "Microsoft",
+    "os": "Windows Vista",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "Windows Vista\\Printer.png",
+    "corporation": "Microsoft",
+    "os": "Windows Vista",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "Windows Vista\\Removable.png",
+    "corporation": "Microsoft",
+    "os": "Windows Vista",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "Windows Vista\\RTF Document.png",
+    "corporation": "Microsoft",
+    "os": "Windows Vista",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "Windows Vista\\Run.png",
+    "corporation": "Microsoft",
+    "os": "Windows Vista",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "Windows Vista\\Scanner.png",
+    "corporation": "Microsoft",
+    "os": "Windows Vista",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "Windows Vista\\Settings.png",
+    "corporation": "Microsoft",
+    "os": "Windows Vista",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "Windows Vista\\Solitaire.png",
+    "corporation": "Microsoft",
+    "os": "Windows Vista",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "Windows Vista\\Sound.png",
+    "corporation": "Microsoft",
+    "os": "Windows Vista",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "Windows Vista\\System.png",
+    "corporation": "Microsoft",
+    "os": "Windows Vista",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "Windows Vista\\Task Manager.png",
+    "corporation": "Microsoft",
+    "os": "Windows Vista",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "Windows Vista\\Text Document.png",
+    "corporation": "Microsoft",
+    "os": "Windows Vista",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "Windows Vista\\Video.png",
+    "corporation": "Microsoft",
+    "os": "Windows Vista",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "Windows Vista\\Videos.png",
+    "corporation": "Microsoft",
+    "os": "Windows Vista",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "Windows Vista\\Voice Recorder.png",
+    "corporation": "Microsoft",
+    "os": "Windows Vista",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "Windows Vista\\Volume Mixer.png",
+    "corporation": "Microsoft",
+    "os": "Windows Vista",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "Windows Vista\\Webpage.png",
+    "corporation": "Microsoft",
+    "os": "Windows Vista",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  },
+  {
+    "file": "Windows Vista\\WordPad.png",
+    "corporation": "Microsoft",
+    "os": "Windows Vista",
+    "direction": "Skeuomorphism",
+    "style": "Windows Aero"
+  }
+]

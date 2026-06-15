@@ -1,0 +1,25 @@
+                         precision    recall  f1-score   support
+
+  Mac OS X 10.0 Cheetah       0.81      0.76      0.78        33
+Mac OS X 10.10 Yosemite       0.57      0.39      0.46        44
+  Mac OS X 10.5 Leopard       0.78      0.60      0.67        47
+Mac OS X 10.9 Mavericks       0.77      0.80      0.78        45
+             Windows 10       0.74      0.83      0.78        30
+             Windows 11       0.77      0.83      0.80        29
+            Windows 3.0       0.97      1.00      0.98        29
+              Windows 7       0.82      0.95      0.88        38
+             Windows 98       0.93      0.86      0.89        29
+          Windows Vista       0.85      0.71      0.77        31
+                 iOS 11       0.30      0.35      0.32        23
+                 iOS 18       0.46      0.74      0.57        31
+                 iOS 26       0.69      0.62      0.65        29
+                  iOS 6       0.85      0.90      0.88        39
+                  iOS 7       0.72      0.39      0.51        46
+              iPhone OS       0.86      0.77      0.81        31
+   macOS 10.15 Catalina       0.31      0.52      0.39        29
+       macOS 11 Big Sur       0.95      1.00      0.97        37
+         macOS 26 Tahoe       0.96      0.96      0.96        28
+
+               accuracy                           0.73       648
+              macro avg       0.74      0.74      0.73       648
+           weighted avg       0.75      0.73      0.73       648

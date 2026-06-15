@@ -1,0 +1,10 @@
+               precision    recall  f1-score   support
+
+         Flat       0.82      0.82      0.82       211
+Glassmorphism       0.97      0.93      0.95       157
+        Retro       0.97      1.00      0.98       149
+Skeuomorphism       0.80      0.81      0.80       165
+
+     accuracy                           0.88       682
+    macro avg       0.89      0.89      0.89       682
+ weighted avg       0.88      0.88      0.88       682
